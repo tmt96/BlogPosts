@@ -2,6 +2,7 @@
 title: 'Hello Medium'
 created: '5-3-2017'
 tags: ['personal']
+license: 'public-domain'
 ---
 # Hello Medium
 
