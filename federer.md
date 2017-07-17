@@ -16,5 +16,10 @@ Federer went on to lose the match that day. And with his knees already damaged b
 
 ----
 
-Wimbledon 2017, Final. Federer jumped up to celebrate his eighth Wimbledon and 19th Grand Slam. He has been the runaway best player of the year, winning two Grand Slams and two Masters, has a record of 31-2 for the year, and did not drop a set on his way to the title. The king is back, and his roar, at near 36 of age, is louder than ever.
+## Wimbledon 2017, Final
 
+Federer jumped up to celebrate his eighth Wimbledon and 19th Grand Slam. He has been the runaway best player of the year, winning two Grand Slams and two Masters, has a record of 31-2 for the year, and did not drop a set on his way to the title. The king is back, and his roar, at near 36 of age, is louder than ever.
+
+And he did not just regain his old form. He improved on it. One only needs to look at his backhand. Pre-2017, it is one of the most beautiful shot in the world, the stroke so natural and effortless it almost looks like Jackson Pollock dripping paint on his drawing. It is also Roger's biggest weakness, one that constantly gets exploited by the Spanish topspin machine named Rafael Nadal, and crumbles at the most important moment.
+
+But then in the final of Australian Open , something curious happened.
