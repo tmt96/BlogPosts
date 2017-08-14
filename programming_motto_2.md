@@ -4,7 +4,6 @@ created: '8-13-2017'
 tags: ['technology', 'thoughts']
 license: 'public-domain'
 ---
-
 # KISS Principle: Keep it Simple Stupid
 
 The idea behind KISS is that the simpler a program, a better it will run. This is due to less moving target to maintain, less unneeded complexity, and a more focused code base.
